@@ -1,4 +1,4 @@
-# Cloudflare | GCP
+# Cloudflare | GCP (forked from [cloudflare/cloudflare-gcp](https://github.com/cloudflare/cloudflare-gcp))
 <!-- [![Latest Github release](https://img.shields.io/github/package-json/v/cloudflare/cloudflare-gcp.svg)](https://github.com/cloudflare/cloudflare-gcp/releases/latest) -->
 
 Integrate Cloudflare Enterprise Logpush with Google BigQuery and Security Command Center on Google Cloud.

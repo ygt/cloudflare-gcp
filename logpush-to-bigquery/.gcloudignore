@@ -12,5 +12,6 @@
 # below:
 .git
 .gitignore
-
+deploy.sh
+cloudshell.md
 node_modules
